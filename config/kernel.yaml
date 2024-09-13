@@ -155,13 +155,9 @@ kernel:
           - friendlyelec-nanopc-*
           - friendlyelec-cm*
         experimental: null
-        firmware:
-          - linux-firmware-joshua-git
-        graphics:
-          - mesa
-        video:
-          - pipewire-jack
-          - ffmpeg-mpp-git
+        firmware: null
+        graphics: null
+        video: null
         additional: null
 
       # Joshua's Rockchip 5.10 Kernel
