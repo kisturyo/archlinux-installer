@@ -156,7 +156,8 @@ kernel:
           - friendlyelec-cm*
         experimental: null
         firmware: null
-        graphics: null
+        graphics:
+          - mesa
         video: null
         additional: null
 
